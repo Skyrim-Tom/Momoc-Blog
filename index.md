@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Momoc Blog"
+  name: "大饼のBlog"
   text: "我们无法判断某一瞬间的价值，直到它成为回忆。"
   tagline: My great project tagline
   actions:
