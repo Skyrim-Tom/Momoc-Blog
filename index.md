@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Momoc's Blog"
-  text: "We can't judge the value of a moment until it becomes a memory."
-  tagline: My great project tagline
+  text: "Flag 💪朝着目标，勇往直前！"
+  tagline: We can't judge the value of a moment until it becomes a memory.
   actions:
     - theme: brand
       text: Markdown Examples
