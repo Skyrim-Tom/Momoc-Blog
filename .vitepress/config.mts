@@ -18,6 +18,12 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: '技术文档',
+        items: [
+          { text: '哈希算法的精简运用', link: '/pages/哈希算法的精简运用' }
+        ]
       }
     ],
 
