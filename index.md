@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Momoc's Blog"
-  text: "Flag 💪朝着目标，勇往直前！"
+  text: "与谁同坐 🌕 明月清风我"
   tagline: We can't judge the value of a moment until it becomes a memory.
   actions:
     - theme: brand
