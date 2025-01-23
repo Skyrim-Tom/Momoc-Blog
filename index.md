@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Momoc's Blog"
-  text: "🌕陶然无喜亦无忧"
+  text: "陶然无喜亦无忧 🌕"
   tagline: We can't judge the value of a moment until it becomes a memory.
   actions:
     - theme: brand
