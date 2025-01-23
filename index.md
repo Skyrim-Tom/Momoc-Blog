@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Momoc の Blog"
-  text: "我们无法判断某一瞬间的价值，直到它成为回忆。"
+  name: "Momoc's Blog"
+  text: "We can't judge the value of a moment until it becomes a memory."
   tagline: My great project tagline
   actions:
     - theme: brand
