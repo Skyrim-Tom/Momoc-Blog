@@ -2,14 +2,18 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Momoc Blog",
-  description: "A VitePress Site",
+  title: "Momoc's Blog",
+  description: "My personal blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/markdown-examples' }
     ],
+
+    search: {
+      provider: 'local'
+    },
 
     sidebar: [
       {
@@ -50,5 +54,6 @@ export default defineConfig({
       message: '<a href="https://beian.miit.gov.cn">粤ICP备2025366790号</a> 🚀 Released under the MIT License.',
       copyright: 'Copyright © 2025-present Momoc'
     }
-  }
+  },
+  lastUpdated: true
 })
