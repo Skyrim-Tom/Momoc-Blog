@@ -1,13 +1,5 @@
 # Promise对象详解
 
-***
-
-title: Promise对象详解
-date: 2020-01-05 01:32:32
-tags: ES6
-categories: 技术干货
-----------------
-
 Promise 是异步编程的一种解决方案，比传统的解决方案——回调函数和事件——更合理和更强大。因此对于项目开发中遇到的令人头痛的复杂回调，`Promise` 无疑是最好的选择。有了`Promise`对象，就可以将异步操作以同步操作的流程表达出来，避免了层层嵌套的回调函数。此外，`Promise`对象提供统一的接口，使得控制异步操作更加容易。
 
 关于 Promise 更详细的概念，用法和例子，可参考阮一峰老师的ES6官方文档：[ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/promise "ECMAScript 6 入门")。

@@ -1,13 +1,5 @@
 # 你必须掌握的HTTP与HTTPS的那些事儿
 
-***
-
-title: 你必须掌握的HTTP与HTTPS的那些事儿
-date: 2020-11-29 22:16:51
-tags: HTTP
-categories: 技术干货
-----------------
-
 ### TCP/IP网络模型
 
 该部分内容参考自[Fundebug的博客《一文搞懂TCP与UDP的区别》](https://www.cnblogs.com/fundebug/p/differences-of-tcp-and-udp.html "Fundebug的博客《一文搞懂TCP与UDP的区别》")

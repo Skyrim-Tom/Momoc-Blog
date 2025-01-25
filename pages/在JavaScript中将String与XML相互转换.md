@@ -1,13 +1,5 @@
 # 在JavaScript中将String与XML相互转换
 
-***
-
-title: 在JavaScript中将String与XML相互转换
-date: 2020-07-30 10:35:36
-tags: JavaScript
-categories: 技术干货
-----------------
-
 将字符串换成 XML 对象
 
 ```javascript

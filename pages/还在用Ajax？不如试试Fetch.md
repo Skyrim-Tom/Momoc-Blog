@@ -1,13 +1,5 @@
 # 还在用Ajax？不如试试Fetch
 
-***
-
-title: 还在用Ajax？不如试试Fetch
-date: 2021-01-20 10:06:41
-tags: Fetch
-categories: 技术干货
-----------------
-
 > 文章参考自[anna\_0707的简书文章](https://www.jianshu.com/p/7762515f8d1a "anna_0707的简书文章") [MDN 使用Fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch "MDN 使用Fetch")
 
 #### Fetch的特点

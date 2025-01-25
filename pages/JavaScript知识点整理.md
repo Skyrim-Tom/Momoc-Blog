@@ -1,13 +1,5 @@
 # JavaScript知识点整理
 
-***
-
-title: JavaScript知识点整理
-date: 2020-11-29 18:30:25
-tags: JavaScript
-categories: 技术干货
-----------------
-
 ### JavaScript数据类型总结
 
 数据类型指的就是字面量的类型，可以分为两类：1. 原始类型(基本类型); 2. 引用类型。

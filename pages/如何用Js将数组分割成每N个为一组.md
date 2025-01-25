@@ -1,13 +1,5 @@
 # 如何用Js将数组分割成每N个为一组
 
-***
-
-title: 如何用Js将数组分割成每N个为一组
-date: 2020-05-25 09:51:40
-tags: JavaScript
-categories: 技术干货
-----------------
-
 假设有这么一个数组：
 
 ```javascript

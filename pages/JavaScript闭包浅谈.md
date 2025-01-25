@@ -1,13 +1,5 @@
 # JavaScript闭包浅谈
 
-***
-
-title: JavaScript闭包浅谈
-date: 2020-11-29 11:07:27
-tags: JavaScript
-categories: 技术干货
-----------------
-
 文章参考：[《彻底理解js中的闭包》](https://www.cnblogs.com/itjeff/p/10106855.html "《彻底理解js中的闭包》")
 闭包是js开发惯用的技巧，什么是闭包？闭包指的是：能够访问另一个函数作用域的变量的函数。
 清晰的讲：闭包就是一个函数，这个函数能够访问其他函数的作用域中的变量。

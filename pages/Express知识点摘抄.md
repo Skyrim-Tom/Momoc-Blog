@@ -1,13 +1,5 @@
 # Express知识点摘抄
 
-***
-
-title: Express知识点摘抄
-date: 2020-12-23 10:02:30
-tags: node.js
-categories: 技术干货
-----------------
-
 #### Express Router 对象
 
 ```javascript

@@ -1,13 +1,5 @@
 # 纯原生JavaScript封装AJAX请求
 
-***
-
-title: 纯原生JavaScript封装AJAX请求
-date: 2020-08-06 16:21:56
-tags: JavaScript
-categories: 技术干货
-----------------
-
 业务中可以需要直接使用原生的JavaScript进行网络请求，这个时候可以简单封装一个AJAX方法：
 
 #### 调用方法

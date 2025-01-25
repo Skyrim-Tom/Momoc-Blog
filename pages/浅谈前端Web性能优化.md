@@ -1,13 +1,5 @@
 # 浅谈前端Web性能优化
 
-***
-
-title: 浅谈前端Web性能优化
-date: 2020-11-24 11:52:56
-tags: 优化
-categories: 技术干货
-----------------
-
 关于前端web性能优化的问题，在文章中我会随着项目的积累，把所知的和实用的优化经验总结一下。文章参考：
 
 > [《毫秒必争，前端网页性能最佳实践》](https://www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html#httprequest "《毫秒必争，前端网页性能最佳实践》")[《12道腾讯前端面试真题及答案整理》](https://mp.weixin.qq.com/s/caBOODlnPJDdzw45Ngn_Fw "《12道腾讯前端面试真题及答案整理》")[rwyin博客园](https://www.cnblogs.com/yinrw/p/10694735.html "rwyin博客园")
