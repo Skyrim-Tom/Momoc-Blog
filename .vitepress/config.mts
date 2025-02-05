@@ -17,8 +17,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'One more thing',
         items: [
+          { text: '和双下巴Say Goodbye', link: '/pages/和双下巴Say Goodbye' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
